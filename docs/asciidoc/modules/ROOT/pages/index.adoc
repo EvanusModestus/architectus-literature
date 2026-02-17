@@ -16,22 +16,22 @@ ____
 |===
 |Author |Works
 
-|**xref:cervantes/index.adoc[{author-cervantes}]**
+|**{author-cervantes}**
 |{book-quijote}, {book-novelas-ejemplares}
 
-|**xref:garcia-marquez/index.adoc[{author-gabo}]**
+|**{author-gabo}**
 |{book-cien-anos}, {book-amor-tiempos}, {book-cronica}
 
-|**xref:reina-valera/index.adoc[Reina Valera]**
+|**Reina Valera**
 |{book-rv-1960} — complete Bible study
 
-|**xref:borges/index.adoc[{author-borges}]**
+|**{author-borges}**
 |Ficciones, El Aleph
 
-|**xref:poetry/index.adoc[Poetry]**
+|**Poetry**
 |Neruda, Machado, Lorca
 
-|**xref:portuguese/index.adoc[Portuguese]**
+|**Portuguese**
 |Pessoa, Machado de Assis
 |===
 
@@ -91,6 +91,5 @@ The Spanish Bible. Essential for understanding Hispanic culture and faith.
 
 == Related
 
-* xref:languages::spanish-journey.adoc[Spanish Journey] — Language learning
-* xref:languages::portuguese-journey.adoc[Portuguese Journey] — Portuguese learning
+* xref:languages::index.adoc[Languages] — Language learning journeys
 * xref:philosophy::index.adoc[Philosophy] — Faith and reason
