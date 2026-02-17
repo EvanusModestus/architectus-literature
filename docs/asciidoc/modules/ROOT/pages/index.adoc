@@ -1,0 +1,96 @@
+= Literature
+:description: Spanish and Portuguese literature - Cervantes, García Márquez, Reina Valera
+:navtitle: Literature
+
+[.lead]
+Reading and studying the masters in their original languages.
+
+[quote, {author-cervantes}, {book-quijote-short}]
+____
+"{quote-quijote-identity}"
+____
+
+== Core Authors
+
+[cols="1,2"]
+|===
+|Author |Works
+
+|**xref:cervantes/index.adoc[{author-cervantes}]**
+|{book-quijote}, {book-novelas-ejemplares}
+
+|**xref:garcia-marquez/index.adoc[{author-gabo}]**
+|{book-cien-anos}, {book-amor-tiempos}, {book-cronica}
+
+|**xref:reina-valera/index.adoc[Reina Valera]**
+|{book-rv-1960} — complete Bible study
+
+|**xref:borges/index.adoc[{author-borges}]**
+|Ficciones, El Aleph
+
+|**xref:poetry/index.adoc[Poetry]**
+|Neruda, Machado, Lorca
+
+|**xref:portuguese/index.adoc[Portuguese]**
+|Pessoa, Machado de Assis
+|===
+
+== Why Read in Original
+
+Reading in the original language provides:
+
+* **Nuance** — translations lose subtlety
+* **Rhythm** — poetry demands original meter
+* **Culture** — idioms carry cultural weight
+* **Etymology** — word choices reveal meaning
+* **Growth** — the best language practice
+
+== Don Quijote
+
+The first modern novel. A meditation on identity, reality, and the power of narrative.
+
+[quote, {author-cervantes}, {book-quijote-short}]
+____
+"{quote-quijote-giants}"
+____
+
+=== Major Themes
+
+* **Identity** — "Yo sé quién soy"
+* **Reality vs. Illusion** — giants or windmills?
+* **Idealism** — fighting for impossible dreams
+* **Friendship** — Quijote and Sancho
+* **Narrative** — the story knows it's a story
+
+== Gabriel García Márquez
+
+The master of magical realism. Colombia's Nobel laureate.
+
+[quote, {author-gabo}, {book-cien-anos}]
+____
+"{quote-gabo-solitude}"
+____
+
+=== Major Themes
+
+* **Solitude** — the Buendía curse
+* **Time** — circular, mythical
+* **Memory** — the plague of forgetting
+* **Love** — in all its forms
+
+== Reina Valera
+
+The Spanish Bible. Essential for understanding Hispanic culture and faith.
+
+=== Approach
+
+* **Systematic study** — book by book
+* **Original languages** — Hebrew, Greek reference
+* **Historical context** — when, where, why
+* **Application** — faith and practice
+
+== Related
+
+* xref:languages::spanish-journey.adoc[Spanish Journey] — Language learning
+* xref:languages::portuguese-journey.adoc[Portuguese Journey] — Portuguese learning
+* xref:philosophy::index.adoc[Philosophy] — Faith and reason

@@ -1,0 +1,49 @@
+name: literature
+title: Literature
+version: '2026'
+start_page: ROOT:index.adoc
+nav:
+  - modules/ROOT/nav.adoc
+
+asciidoc:
+  attributes:
+    doc-id: ARCHITECTUS-LITERATURE
+    revdate: '2026-02-17'
+    author: Architectus
+    icons: font
+    source-highlighter: highlight.js
+    experimental: ''
+    page-pagination: true
+
+    # Authors
+    author-cervantes: Miguel de Cervantes Saavedra
+    author-gabo: Gabriel García Márquez
+    author-borges: Jorge Luis Borges
+    author-neruda: Pablo Neruda
+    author-machado: Antonio Machado
+    author-pessoa: Fernando Pessoa
+    author-assis: Machado de Assis
+
+    # Cervantes Works
+    book-quijote: El ingenioso hidalgo don Quijote de la Mancha
+    book-quijote-short: Don Quijote
+    book-novelas-ejemplares: Novelas ejemplares
+    book-galatea: La Galatea
+    book-persiles: Los trabajos de Persiles y Sigismunda
+
+    # García Márquez Works
+    book-cien-anos: Cien años de soledad
+    book-amor-tiempos: El amor en los tiempos del cólera
+    book-cronica: Crónica de una muerte anunciada
+    book-coronel: El coronel no tiene quien le escriba
+    book-otono-patriarca: El otoño del patriarca
+
+    # Reina Valera
+    book-rv: Santa Biblia Reina Valera
+    book-rv-1960: Reina Valera 1960
+    book-rv-1909: Reina Valera 1909
+
+    # Quotes
+    quote-quijote-identity: "Yo sé quién soy, y sé que puedo ser, no sólo los que he dicho, sino todos los Doce Pares de Francia."
+    quote-quijote-giants: "Mire vuestra merced que aquellos que allí se parecen no son gigantes, sino molinos de viento."
+    quote-gabo-solitude: "Muchos años después, frente al pelotón de fusilamiento, el coronel Aureliano Buendía había de recordar aquella tarde remota en que su padre lo llevó a conocer el hielo."
